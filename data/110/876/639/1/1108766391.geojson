@@ -9,7 +9,7 @@
     "geom:bbox":"-70.94896,42.0859,-70.75239,42.19537",
     "geom:latitude":42.141287,
     "geom:longitude":-70.851076,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":121200848.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"5th Plymouth District",
     "uscensus:sldlst":"176",
     "uscensus:statefp":"25",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486837,
     "wof:geomhash":"b5bda84fb2dcb8b9308b14ec63222b28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108766391,
     "wof:lastmodified":1481486837,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688645,
     "wof:repo":"whosonfirst-data-constituency-us-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[],

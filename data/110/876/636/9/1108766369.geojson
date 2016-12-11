@@ -9,7 +9,7 @@
     "geom:bbox":"-71.455904,42.03489,-71.35927,42.17939",
     "geom:latitude":42.102182,
     "geom:longitude":-71.412222,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":89539899.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"10th Norfolk District",
     "uscensus:sldlst":"166",
     "uscensus:statefp":"25",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486835,
     "wof:geomhash":"2327f34f41482c241057b8db8df81546",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108766369,
     "wof:lastmodified":1481486835,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688645,
     "wof:repo":"whosonfirst-data-constituency-us-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[],

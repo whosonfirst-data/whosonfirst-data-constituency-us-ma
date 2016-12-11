@@ -9,7 +9,7 @@
     "geom:bbox":"-71.11962,41.7788,-70.80689,41.94076",
     "geom:latitude":41.853976,
     "geom:longitude":-70.978791,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":197857121.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"12th Bristol District",
     "uscensus:sldlst":"080",
     "uscensus:statefp":"25",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486814,
     "wof:geomhash":"56847c366d7e84048fa6ade5a9c9737e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108766175,
     "wof:lastmodified":1481486814,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688645,
     "wof:repo":"whosonfirst-data-constituency-us-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[],

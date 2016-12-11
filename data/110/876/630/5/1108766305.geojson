@@ -9,7 +9,7 @@
     "geom:bbox":"-71.32127,42.45964,-71.131295,42.552256",
     "geom:latitude":42.503741,
     "geom:longitude":-71.232582,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":75742696.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"21st Middlesex District",
     "uscensus:sldlst":"138",
     "uscensus:statefp":"25",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486830,
     "wof:geomhash":"4c65df623068611cc603b3e277a18d99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108766305,
     "wof:lastmodified":1481486830,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688645,
     "wof:repo":"whosonfirst-data-constituency-us-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[],
